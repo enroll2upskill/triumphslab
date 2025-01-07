@@ -8,4 +8,5 @@
 5. Docker
 6. Kubernetes
 7. Nexus
+8. X-Ray
 
