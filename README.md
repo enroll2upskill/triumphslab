@@ -7,5 +7,5 @@
 4. Terraform
 5. Docker
 6. Kubernetes
-7. Trivy
+7. Nexus
 
