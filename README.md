@@ -4,8 +4,8 @@
 1. **Linux** 
 2. *Git and github*
 3. Azure DevOps
-4. Terraform
-5. Docker
+4. Terrafor
+5. Ansible
 6. Kubernetes
 7. Nexus
 8. X-Ray
